@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/junhoyeo/ditto">
-    <img alt="Ditto" src="https://github.com/junhoyeo/ditto/blob/main/docs/images/ditto.png?raw=true" width="500" />
+    <img alt="Ditto" src="https://github.com/junhoyeo/ditto/blob/main/docs/images/ditto.png?raw=true" width="360" />
   </a>
 </a>
 
