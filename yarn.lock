@@ -3275,6 +3275,11 @@ natural-compare@^1.4.0:
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
+next-composed-plugins@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/next-composed-plugins/-/next-composed-plugins-1.0.1.tgz#0744d658d4e10453c1ffb3654af31a500dae1c20"
+  integrity sha512-iz7qeNNu/07Xh6QxOfuRB+05KN8/eKSBh/FJc6WqPvbfZMbMGXou7ZLWiAZjnKu+Zvk5mwLm+6nNOXW9B+mhKw==
+
 next-plugin-svgr@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/next-plugin-svgr/-/next-plugin-svgr-1.1.1.tgz#d0d27ce1a06150264e3e314334406a5bd21563d4"
