@@ -1,8 +1,8 @@
 {
-  "name": "nextstart",
+  "name": "ditto",
   "version": "1.0.0",
   "private": true,
-  "repository": "https://github.com/junhoyeo/nextstart",
+  "repository": "https://github.com/junhoyeo/ditto",
   "author": "Junho Yeo <i@junho.io>",
   "scripts": {
     "dev": "next dev",
