@@ -9,6 +9,8 @@ function MyApp({ Component, pageProps }: AppProps) {
       {/* @ts-ignore // Type mismatch after upgrading to React 18 */}
       <GlobalStyle />
       <Component {...pageProps} />
+
+      <div id="portal" />
     </React.Fragment>
   );
 }
