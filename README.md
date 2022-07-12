@@ -3,9 +3,9 @@
 Welcome to my frontend template.
 
 - Give me kodos by adding a star! ⭐
-- Click `Use this template` on the top right to get started.
+- Click `Use this template` on the top right to get started. Or just press the image below.
 
-<img alt="Use this template" src="./docs/images/use-this-template.png" width="500" />
+[<img alt="Use this template" src="./docs/images/use-this-template.png" width="500" />](https://github.com/junhoyeo/nextstart/generate)
 
 You can either go CLI:
 
