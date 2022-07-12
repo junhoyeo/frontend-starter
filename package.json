@@ -16,7 +16,7 @@
     "react-dom": "18.2.0",
     "react-is": "^18.2.0",
     "styled-components": "^5.3.5",
-    "styled-normalize": "^8.0.7"
+    "styled-reset": "^4.4.2"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^12.2.2",

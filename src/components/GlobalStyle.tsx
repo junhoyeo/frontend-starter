@@ -1,16 +1,12 @@
 import { createGlobalStyle } from 'styled-components';
-import normalize from 'styled-normalize';
+import reset from 'styled-reset';
 
 export const GlobalStyle = createGlobalStyle`
-  ${normalize}
+  ${reset}
 
   * {
     box-sizing: border-box;
     word-break: keep-all;
-  }
-
-  body {
-    margin: 0;
   }
 
   a {
@@ -18,14 +14,12 @@ export const GlobalStyle = createGlobalStyle`
     cursor: pointer;
   }
 
-  input {
+  input, button {
     outline: 0;
+    background-color: transparent;
   }
 
   button {
-    border: 0;
-    outline: 0;
-    background-color: transparent;
     cursor: pointer;
   }
 `;
