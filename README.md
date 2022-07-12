@@ -1,11 +1,21 @@
 # Nextstart
 
-Welcome to my frontend template.
+<p align="center">
+  <a href="https://github.com/junhoyeo/nextstart">
+    <img alt="Ditto" src="https://github.com/junhoyeo/nextstart/blob/main/docs/images/ditto.png?raw=true" width="500" />
+  </a>
+</a>
 
+Hey there! You just discovered my frontend template 👋
+
+[<img alt="Cover" src="https://github.com/junhoyeo/nextstart/blob/main/docs/images/cover.webp?raw=true" width="500" />](https://github.com/junhoyeo)
+
+- Visit my GitHub profile([@junhoyeo](https://github.com/junhoyeo)) and drop a follow!
 - Give me kodos by adding a star! ⭐
-- Click `Use this template` on the top right to get started. Or just press the image below.
+- Click `Use this template` on the top right to get started!
+  - Or... just press the image below.
 
-[<img alt="Use this template" src="./docs/images/use-this-template.png" width="500" />](https://github.com/junhoyeo/nextstart/generate)
+[<img alt="Use this template" src="https://github.com/junhoyeo/nextstart/blob/main/docs/images/use-this-template.png?raw=true" width="500" />](https://github.com/junhoyeo/nextstart/generate)
 
 You can either go CLI:
 
