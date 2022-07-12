@@ -6,6 +6,8 @@
   </a>
 </a>
 
+> **Ditto, a Transform Pokémon.** It is able to rearrange the cells of its body and assume any form.
+
 Hey there! You just discovered my frontend template 👋
 
 [<img alt="Cover" src="https://github.com/junhoyeo/ditto/blob/main/docs/images/cover.webp?raw=true" width="500" />](https://github.com/junhoyeo)
