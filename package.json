@@ -1,7 +1,9 @@
 {
-  "name": "projectname",
+  "name": "nextstart",
   "version": "1.0.0",
   "private": true,
+  "repository": "https://github.com/junhoyeo/nextstart",
+  "author": "Junho Yeo <i@junho.io>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
