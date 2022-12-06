@@ -1,4 +1,3 @@
-const withSvgr = require('next-plugin-svgr');
 const { withPlugins } = require('next-composed-plugins');
 
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
@@ -12,5 +11,5 @@ module.exports = withPlugins(
       styledComponents: true,
     },
   },
-  [withSvgr, withBundleAnalyzer],
+  [withBundleAnalyzer],
 );
