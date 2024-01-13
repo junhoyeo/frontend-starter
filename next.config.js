@@ -9,7 +9,7 @@ module.exports = withPlugins(
     swcMinify: true,
     reactStrictMode: true,
     compiler: {
-      styledComponents: true,
+      emotion: true,
     },
   },
   [withBundleAnalyzer],
